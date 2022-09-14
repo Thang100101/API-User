@@ -1,0 +1,22 @@
+{
+  "name": "api-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thang100101/API-User.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thang100101/API-User/issues"
+  },
+  "homepage": "https://github.com/Thang100101/API-User#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
